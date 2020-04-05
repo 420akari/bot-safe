@@ -18,7 +18,7 @@ const BOTUSE_GROUP = '683301629797072907';
 //Settings
 const CMD_PREFIX = '/';
 
-const LOGIN_TOKEN = 'Njk1OTgxOTU1NTIyNzU2Njg5.XoiFvA.rHCN43AEdzN_XRmO0KsN_8CruEs';
+const LOGIN_TOKEN = 'Njk1OTgxOTU1NTIyNzU2Njg5.Xoo24w.zZ94uWahvzcD7nQGcwmYkEd2bz8';
 //
 
 Bot.on('ready', () => {
